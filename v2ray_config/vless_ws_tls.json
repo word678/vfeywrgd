@@ -14,7 +14,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/$WS_PATH"
+          "path": "/xray"
         }
       }
     }
