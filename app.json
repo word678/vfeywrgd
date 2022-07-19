@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/word678/vfrgd",
-  "repository": "https://github.com/word678/vfrgd",
+  "website": "https://github.com/word678/vfrjjewgd",
+  "repository": "https://github.com/word678/vfrjjewgd",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
